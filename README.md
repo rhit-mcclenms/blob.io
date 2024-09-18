@@ -10,7 +10,5 @@ Raylib Features:
    - Audio: Implements sound effects with LoadSound and PlaySound for eating, game over, and virus collision.
    - Textures: Creates a scrolling background with LoadTextureFromImage and DrawTextureEx.
    - Math: Leverages Raylib's Vector2 operations for smooth player movement and collision detection.
-
-Game Logic:
    - Implements a simple game loop (InitGame, UpdateGame, DrawGame) facilitated by Raylib's window and drawing functions.
    - Uses Raylib's random number generator for blob and virus spawning.
