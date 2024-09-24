@@ -44,4 +44,4 @@ void UpdateGame(Game *game, int screenWidth, int screenHeight);
 void DrawGame(const Game *game);
 void UnloadGame(Game *game);
 
-#endif // GAME_H
+#endif
